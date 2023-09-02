@@ -1,0 +1,32 @@
+.sub
+    {color:black ; 
+      font-family: impact; }
+
+.titulo {
+  font-weight: bold;
+  color:teal
+}
+
+.fuente {
+  font-family: Arial, Helvetica, sans-serif;
+}
+#hab {
+  color: brown
+}
+#exp {
+  color:blue
+}
+
+    body {
+      background-color: darkgray;
+     background-image: url(textura.jpg); 
+    }
+
+    th {
+      color: red;
+    }
+    h1 {
+      color: blue;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    
